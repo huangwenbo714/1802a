@@ -1,3 +1,3 @@
 public class Hero{
-	xxxx
-}
+	xxxxxxxxxx
+	111
